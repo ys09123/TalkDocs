@@ -1,0 +1,18 @@
+# App UI & environment
+streamlit
+python-dotenv
+
+# PDF parsing
+PyPDF2
+
+# Embeddings & vector DB
+sentence-transformers
+faiss-cpu
+
+# LangChain modular packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
