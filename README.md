@@ -82,7 +82,7 @@ Then open your browser at http://localhost:8501
 
 ---
 ## 🖼️ Preview
-<p align="center"> <img src="preview.png" width="95%" alt="TalkDocs Screenshot"/> </p>
+<p align="center"> <img src="https://github.com/Arup03NITRR/TalkDocs/blob/master/preview.PNG" width="95%" alt="TalkDocs Screenshot"/> </p>
 
 ---
 ## 📁 Project Structure
